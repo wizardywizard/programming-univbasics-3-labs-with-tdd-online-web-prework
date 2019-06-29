@@ -1,7 +1,7 @@
 # Add your variables here
 first_number=5
 second_number=3
-def sum (num1,num2)
+def sum (first_number,second_number)
   "#{num1} + #{num2}"
 end
 
