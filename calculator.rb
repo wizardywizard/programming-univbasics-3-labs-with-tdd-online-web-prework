@@ -2,7 +2,7 @@
 first_number=5
 second_number=3
 def sum (first_number,second_number)
-  "#{num1} + #{num2}"
+  "#{first_number} + #{second_number}"
 end
 
 def difference(first_number,second_number)
